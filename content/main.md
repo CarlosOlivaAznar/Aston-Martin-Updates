@@ -6,11 +6,13 @@ draft = false
 
 ## Historia de Aston Martin
 
-Aston Martin fue fundada con el nombre de Bamford & Martin Ltd en 1913 por Robert Bamford y Lionel Martin, vencedor en 1913 de la famosa carrera de montaña Aston Clinton. En 1914 pasó a denominarse Aston Martin. Tuvo una destacada participación en numerosas competiciones de gran turismo. Históricamente, sus rivales más importantes han sido las firmas italianas Ferrari y Maserati y, recientemente, también Porsche.
+**[Aston Martin](https://es.wikipedia.org/wiki/Aston_Martin)** fue fundada con el nombre de Bamford & Martin Ltd en 1913 por Robert Bamford y Lionel Martin, vencedor en 1913 de la famosa carrera de montaña Aston Clinton. En 1914 pasó a denominarse Aston Martin. Tuvo una destacada participación en numerosas competiciones de gran turismo. Históricamente, sus rivales más importantes han sido las firmas italianas Ferrari y Maserati y, recientemente, también Porsche.
 
 Aportando un diferenciado estilo inglés, Aston Martin adquirió fama mundial al proveer los automóviles para las películas de James Bond, el agente 007. En Casino Royale de 2006 y en Quantum of Solace de 2008 y en Spectre de 2015 el actor Daniel Craig maneja un DBS V12 plateado y un prototipo DB10.
 
 En 2005, la marca volvió a las competiciones deportivas con éxito logrando un tercer puesto en la categoría GT de las 24 Horas de Le Mans con su modelo DBR9. Aston Martin ganó por última vez esa legendaria prueba en 1959.
+
+{{< image src="/images/db5.jpg" alt="Aston Martin db5" position="center" style="border-radius: 14px;" >}}
 
 ## Actualidad
 
@@ -18,7 +20,10 @@ Aston Martin Lagonda Global Holdings PLC es un fabricante británico de automóv
 
 ## Formula 1
 
-Tras algunos problemas económicos de Force India Formula One Team en 2015, comenzaron a estudiar la posibilidad de asociarse con otra marca para mejorar sus ingresos y resultados. A pesar del importante ingreso económico que recibió por parte de Sergio Pérez y el multimillonario Carlos Slim en patrocinadores, según se hizo público, Vijay Mallya, director del equipo, solicitó un adelanto de dinero de premios a Ecclestone. Ante la negativa, a partir del verano europeo, el equipo indio confirmó que sus intenciones eran competir como Aston Martin, mejorando así el desarrollo del monoplaza y recibiendo un mayor interés de los patrocinadores por el marketing de la marca británica.
+Tras algunos problemas económicos de [Force India Formula One Team en 2015](https://en.wikipedia.org/wiki/Force_India), comenzaron a estudiar la posibilidad de asociarse con otra marca para mejorar sus ingresos y resultados. A pesar del importante ingreso económico que recibió por parte de Sergio Pérez y el multimillonario Carlos Slim en patrocinadores, según se hizo público, Vijay Mallya, director del equipo, solicitó un adelanto de dinero de premios a Ecclestone. Ante la negativa, a partir del verano europeo, el equipo indio confirmó que sus intenciones eran competir como Aston Martin, mejorando así el desarrollo del monoplaza y recibiendo un mayor interés de los patrocinadores por el marketing de la marca británica.
+
+{{< image src="/images/amr23.png" alt="Aston Martin AMR23" position="center" style="border-radius: 14px;" >}}
+
 
 ###### Fernando Alonso
 
