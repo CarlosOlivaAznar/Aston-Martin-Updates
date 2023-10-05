@@ -19,3 +19,5 @@ las diversas fuentes que se han utilizado:
 [motorsport.com](https://es.motorsport.com)
 
 [f1.com](https://www.formula1.com/en/teams/Aston-Martin.html)
+
+[@FormulaDirecta](https://twitter.com/FormulaDirecta)

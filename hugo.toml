@@ -38,3 +38,9 @@ paginate = 5
     title = "Formula 1"
     url = "/formula1/"
     weight = 3
+  [[menu.main]]
+    identifier = "wec"
+    name = "WEC"
+    title = "WEC"
+    url = "/wec/"
+    weight = 4
