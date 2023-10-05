@@ -1,7 +1,7 @@
 +++
 title = "24 horas de Le Mans"
 date = "2023-10-05T17:48:16+02:00"
-author = "CarAndDriver"
+author = "Car And Driver"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
