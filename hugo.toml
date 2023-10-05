@@ -19,16 +19,22 @@ paginate = 5
     name = "About"
     title = "About"
     url = "/about"
-    weight = 2
+    weight = 5
   [[menu.main]]
     identifier = "posts"
     name = "Noticias"
     title = "Posts"
     url = "/posts/"
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "main"
     name = "Pagina Principal"
     title = "Pagina Principal"
     url = "/main"
     weight = 1
+  [[menu.main]]
+    identifier = "formula1"
+    name = "Formula 1"
+    title = "Formula 1"
+    url = "/formula1/"
+    weight = 3

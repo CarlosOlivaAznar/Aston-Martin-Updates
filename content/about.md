@@ -14,6 +14,8 @@ Esta pagina no esta vinculada oficialmente a la marca Aston Martin©
 
 ## Fuentes
 
-Magna eiusmod et sunt aliquip.
-Incididunt ut dolor nisi mollit velit duis velit laborum est dolore amet.
-Eu reprehenderit nisi minim voluptate incididunt deserunt exercitation ullamco id.
+las diversas fuentes que se han utilizado:
+
+[motorsport.com](https://es.motorsport.com)
+
+[f1.com](https://www.formula1.com/en/teams/Aston-Martin.html)
