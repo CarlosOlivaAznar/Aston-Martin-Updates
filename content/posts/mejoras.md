@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = "Aston Martin trae nuevas mejoras a Qatar"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

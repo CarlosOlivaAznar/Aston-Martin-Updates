@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = "Aston Martin no quiere que Fernando Alonso y Lance Stroll se involucren en el programa del WEC"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

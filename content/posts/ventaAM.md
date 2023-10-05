@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = "Lawrence Stroll podría querer vender Aston Martin a Arabia Saudí"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = "Aston Martin disputara las 24 horas de Le Mans"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++

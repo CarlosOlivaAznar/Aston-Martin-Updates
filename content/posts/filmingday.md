@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = "Aumenta el tiempo de grabacion para los equipos de Formula 1"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
