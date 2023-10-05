@@ -23,3 +23,9 @@ las diversas fuentes que se han utilizado:
 [@FormulaDirecta](https://twitter.com/FormulaDirecta)
 
 [caranddriver.com](https://www.caranddriver.com)
+
+[wikipedia.com](https://es.wikipedia.org)
+
+## Creado por:
+
+Creado y diseñado por Carlos Oliva Aznar, realizado con Hugo, plantilla utilizada: [terminal](https://github.com/panr/hugo-theme-terminal)
