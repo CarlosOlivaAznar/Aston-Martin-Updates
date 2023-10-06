@@ -10,7 +10,7 @@ El Aston Martin Valkyrie es un automóvil superdeportivo de producción construi
 
 El coche deportivo es un producto de la colaboración entre Aston Martin y Red Bull Racing para crear un coche totalmente utilizable y agradable como un coche de carretera. Los fabricantes del coche reclaman el título de coche más rápido de conducción legal en carretera en el mundo. Su diseño fue ayudado por Adrian Newey, director técnico de Red Bull Racing y uno de los diseñadores más exitosos de la Fórmula 1.
 
-Sus principales competidores serán el Mercedes-AMG One y el futuro Red Bull Racing RB17.
+Sus principales competidores serán el [Mercedes-AMG One](https://es.wikipedia.org/wiki/Mercedes-AMG_One) y el futuro Red Bull Racing RB17.
 
 {{< image src="/images/valkyrie.png" alt="Aston Martin Valkyrie" position="center" style="border-radius: 14px;" >}}
 
@@ -30,3 +30,5 @@ Debido al pequeño tamaño del interior, es posible que no todas las personas qu
 
 
 {{< image src="/images/valkyrie3.png" alt="Aston Martin Valkyrie" position="center" style="border-radius: 14px;" >}}
+
+***

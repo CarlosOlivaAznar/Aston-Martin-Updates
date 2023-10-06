@@ -19,6 +19,6 @@ La petrolera estatal Aramco, que ya es el principal patrocinador del equipo, lid
 
 "La culpa la tiene el propio Stroll junior (24 años): el compañero de equipo de la superestrella española Fernando Alonso (42) ya no tiene ningún deseo por la Fórmula 1 porque el doble campeón del mundo le ha mostrado los límites de su potencial."
 
-"Claire-Anne, la madre de Stroll, en particular, está presionando, según fuentes del paddock, para que su hijo ponga fin a su carrera en el deporte del motor después de algunos accidentes este año."
+> "Claire-Anne, la madre de Stroll, en particular, está presionando, según fuentes del paddock, para que su hijo ponga fin a su carrera en el deporte del motor después de algunos accidentes este año."
 
 {{< image src="/images/lancestroll.png" alt="Lance Stroll Singapur" position="center" style="border-radius: 14px;" >}}

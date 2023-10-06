@@ -6,7 +6,7 @@ draft = false
 
 # La competicion mas dura del automovilismo, Las 24 Horas de Le Mans
 
-Las 24 Horas de Le Mans (en francés: 24 Heures du Mans) es una carrera de resistencia que se corre anualmente en el mes de junio en el circuito de la Sarthe, cerca de Le Mans, Francia. Es organizada por el Automobile Club de l'Ouest (ACO). Ha sido puntuable para el Campeonato Mundial de Resistencia entre las décadas de 1950 y 1990 y nuevamente desde 2010.
+**Las 24 Horas de Le Mans** (en francés: 24 Heures du Mans) es una carrera de resistencia que se corre anualmente en el mes de junio en el circuito de la Sarthe, cerca de Le Mans, Francia. Es organizada por el Automobile Club de l'Ouest (ACO). Ha sido puntuable para el Campeonato Mundial de Resistencia entre las décadas de 1950 y 1990 y nuevamente desde 2010.
 
 Es la carrera de automovilismo de resistencia más prestigiosa del mundo, y reúne a pilotos y equipos de diferentes campeonatos nacionales e internacionales. No obstante, algunos obtienen su invitación según resultados en otras competiciones del ACO, como la American Le Mans Series, la European Le Mans Series, la Asian Le Mans Series y Petit Le Mans.
 
@@ -42,3 +42,5 @@ En 1990 se introdujeron dos chicanes en la Recta Mulsanne para reducir las altas
 Tal y como se encuentra, el circuito de la Sarthe es quizás el segundo circuito de carreras más largo existente en la actualidad, por detrás del circuito Nürburgring Nordschleife. Considerando que el "Infierno Verde" ya no es utilizado en competición, La Sarthe es el lugar con mayores tiempos de vuelta, incluso siendo una pista de alta velocidad. Los participantes en Le Mans comentan que hasta un 85% del tiempo (incluyendo paradas), el motor se encuentra al máximo de revoluciones, lo que se traduce en una gran carga de los diversos componentes del vehículo. Al mismo tiempo, se sufren frenadas desde más de 300 km/h a menos de 100 en ciertos tramos.
 
 {{< image src="/images/circuitolasarthe.png" alt="24 horas de le mans" position="center" style="border-radius: 14px; background: #FAE9E7;" >}}
+
+***
