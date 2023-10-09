@@ -11,6 +11,7 @@ paginate = 5
   showMenuItems = 4
   fullWidthTheme = false
   centerTheme = true
+  css = ["css/estilos.css"]
 
 [params.twitter]
   # set Twitter handles for Twitter cards

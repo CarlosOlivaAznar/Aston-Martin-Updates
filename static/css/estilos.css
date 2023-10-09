@@ -1,0 +1,8 @@
+img[src*="#flag"] {
+    display: flex;
+    float: left;
+    margin-top: 4px;
+    margin-bottom: auto;
+    margin-right: 10px;
+    max-width: 30px;
+ }
