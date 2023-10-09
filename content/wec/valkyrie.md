@@ -4,7 +4,7 @@ date = 2023-10-05T15:52:34+02:00
 draft = false
 +++
 
-# Aston Martin Valkyrie El coche de calle que competira de le mans
+# Aston Martin Valkyrie El coche de calle que competira en Le Mans
 
 El Aston Martin Valkyrie es un automóvil superdeportivo de producción construido de manera colaborativa por Aston Martin, Red Bull Racing y varios otros fabricantes.
 
