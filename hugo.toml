@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'es'
-title = 'My New Hugo Site'
+title = 'Aston Martin Updates'
 theme = "terminal"
 
 paginate = 5
