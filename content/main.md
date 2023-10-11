@@ -32,3 +32,4 @@ Fernando Alonso Díaz (Oviedo, Asturias; 29 de julio de 1981) es un piloto de au
 ###### Lance Stroll
 
 Lance Stroll (Montreal, Canadá; 29 de octubre de 1998), nacido como Lance Strulovitch, es un piloto de automovilismo canadiense.1​ Ganó los campeonatos de Fórmula 4 Italiana en 2015 y Fórmula 3 Europea en 2016. Disputó las temporadas 2017 y 2018 con Williams en *Fórmula 1*, en 2019 y 2020 fue piloto de Racing Point. Actualmente es piloto de la escudería Aston Martin F1 Team.
+

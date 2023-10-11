@@ -42,3 +42,5 @@ La resaca de la agitación de 2018 pasa factura y la recuperación del equipo es
 A medida que continúa la estrecha rivalidad dentro del equipo entre el incondicional Sergio Pérez y el protegido de Mercedes, Esteban Ocon, cae hacia la parte trasera del medio campo en medio de la incertidumbre financiera, lo que culmina con un nuevo propietario, el nuevo nombre de Racing Point (y una nueva entrada al campeonato) del GP de Bélgica de agosto. adelante. Recuperarse bien para terminar séptimo en la general, a pesar de perder 59 puntos acumulados antes de Spa.
 
 ***
+
+{{< video video="FwGeLhB3Gs0?si=IPqbAMwEd3kP_2XY" >}}

@@ -33,3 +33,5 @@ Esto parecía dar carpetazo a la posibilidad de ver al Valkyrie y su espectacula
 
 Este equipo fundado en 2020 por Gabe Newell, dueño de la famosa compañía de videojuegos Valve, será el encargado de llevar la estructura del Valkyrie en Resistencia, una vez que Aston Martin Performance Technologies finalice el prototipo en en el recién construido AMR Technology Campus que se encuentra junto a la sede del equipo Aston Martin de F1 en Silverstone.
 
+{{< video video="Z77OucLV1Zw?si=2wgtwvX4Td6HW8qN" >}}
+
